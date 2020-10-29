@@ -3,3 +3,5 @@ a new file
 a change
 
 before add
+
+after add
